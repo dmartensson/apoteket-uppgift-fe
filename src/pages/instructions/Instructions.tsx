@@ -60,10 +60,20 @@ export const InstructionsPage = () => {
           problemlösningsförmåga! Det finns inget facit.
         </p>
         <p>
-          Inlämning sker som ZIP-fil via XXX Dropbox, Google Drive eller
-          OneDrive.
+          Inlämning sker som ZIP-fil via Dropbox, Google Drive, OneDrive eller
+          via fork av detta repo. <br /> Skicka länken till{" "}
+          <a href="mailto:david.martensson@apoteket.se">
+            david.martensson@apoteket.se
+          </a>
+          .
         </p>
-        <p>Eventuella frågor mailas till XXX</p>
+        <p>
+          Eventuella frågor mailas till{" "}
+          <a href="mailto:david.martensson@apoteket.se">
+            david.martensson@apoteket.se
+          </a>
+          .
+        </p>
       </div>
     </main>
   );
